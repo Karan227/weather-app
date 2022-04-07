@@ -4,4 +4,6 @@
  
  API used - Open Weather API
  
- project - link()
+ project - [link](https://relaxed-rabanadas-ffb677.netlify.app/)
+ 
+ 
